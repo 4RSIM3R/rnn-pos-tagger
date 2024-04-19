@@ -1,0 +1,8 @@
+Bapak ngaso wonten griya
+NOUN VERB ADP NOUN
+Bapak badhe tumbas buku ing toko
+PRON AUX VERB NOUN ADP NOUN
+aku tuku  beras
+PRON VERB NOUN
+dheweke mangan  nasi
+PRON VERB NOUN
